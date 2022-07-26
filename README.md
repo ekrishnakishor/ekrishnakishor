@@ -5,3 +5,8 @@
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ekrishnakishor&theme=blue-green)
+
+
+![Metrics](https://raw.githubusercontent.com/ekrishnakishor/ekrishnakishor/github-metrics/github-metrics.svg)
+![Most used languages](https://raw.githubusercontent.com/ekrishnakishor/ekrishnakishor/github-metrics/language.svg)
+![Achievements](https://raw.githubusercontent.com/ekrishnakishor/ekrishnakishor/github-metrics/achievements.svg)
