@@ -25,6 +25,13 @@
 </picture>
 
 
+<details>
+  <summary><b>Programming Languages</b></summary>
+  <br />
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+</details>
+
+
 <p align="left">
   <a href="https://t.me/jrnair13" target="_blank">
     <picture>
