@@ -18,12 +18,6 @@
   </picture>
 </details>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekrishnakishor&theme=nord_dark">
-  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekrishnakishor&theme=nord_bright">
-  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekrishnakishor&theme=nord_dark">
-</picture>
-
 
 <details>
   <summary><b>Technologies</b></summary>
@@ -49,12 +43,23 @@
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
+  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+  ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB) 
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 </details>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekrishnakishor&theme=nord_dark">
+  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekrishnakishor&theme=nord_bright">
+  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekrishnakishor&theme=nord_dark">
+</picture>
 
 <p align="left">
   <a href="https://t.me/jrnair13" target="_blank">
