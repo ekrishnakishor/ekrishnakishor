@@ -4,7 +4,7 @@
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=ekrishnakishor&theme=blue-green)-->
 
 <details>
-  <summary><b>Languages stats</b></summary>
+  <summary><b>Language stats</b></summary>
   <br/>
   <picture align="left">
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekrishnakishor&theme=nord_dark">
@@ -20,7 +20,7 @@
 
 
 <details>
-  <summary><b>Technologies</b></summary>
+  <summary><b>Technologies I Use</b></summary>
   <br />
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
